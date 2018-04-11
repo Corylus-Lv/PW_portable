@@ -1,6 +1,6 @@
 # PremierWave-EN Portable Board
 
-過去に作った基板の設計データを公開します。
+過去に作った基板のEAGLE設計データを公開します。
 LANTRONIX社のPremierWave-ENを使った応用基板ですが、リチウムイオン・バッテリーを使った移動機器に応用できるかもしれません。
 
 **特に注意すべき事項：**  
